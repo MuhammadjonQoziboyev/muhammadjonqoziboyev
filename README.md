@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammadjon Qoziboyev (muhammadjonqoziboyev)
 
-![Profile Banner](./assets/banner.png)
+
 
 ## 🚀 About Me
 Computer Science student | Full-Stack Developer | Passionate about web apps, AI & Machine Learning
