@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;">
-</p>
+
 
 <h1 align="center" style="color:white;">👋 Hi, I'm Muhammadjon Qoziboyev</h1>
 <p align="center" style="color:gray;">Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast</p>
