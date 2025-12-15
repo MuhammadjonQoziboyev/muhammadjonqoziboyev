@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Muhammadjon (muhammadjonqoziboyev)
+# 👋 Hi, I'm Muhammadjon Qoziboyev (muhammadjonqoziboyev)
 
 ![Profile Banner](./assets/banner.png)
 
 ## 🚀 About Me
-Computer Science student | Full-Stack Developer | Passionate about web apps & AI
+Computer Science student | Full-Stack Developer | Passionate about web apps, AI & Machine Learning
 
 - 🔭 I’m currently working on my personal portfolio website
 - 🌱 I’m learning **Machine Learning, Django REST Framework & APIs**
-- 💬 Ask me about **Python, Django, Tailwind CSS, JS**
+- 💬 Ask me about **Python, Django, Tailwind CSS, JavaScript, SQL**
 - 📫 How to reach me: muhammadjon.qoziboyev.22@gmail.com
-- ⚡ Fun fact: I love building cool and interactive web apps!
+- ⚡ Fun fact: I love building cool, interactive, and practical web applications!
 
 ---
 
@@ -24,13 +24,13 @@ Computer Science student | Full-Stack Developer | Passionate about web apps & AI
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=urolovforever&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urolovforever&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadjonqoziboyev&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadjonqoziboyev&show_icons=true&theme=radical)
 
 ---
 
 ## 📂 Projects
-- [Password Manager App](#)
+- [Password Manager App](#) <!-- loyihalar linkini qo'ying -->
 - [Antivirus Application](#)
 - [Full-Stack Blog](#)
 
@@ -38,6 +38,12 @@ Computer Science student | Full-Stack Developer | Passionate about web apps & AI
 
 ## 📫 Contact Me
 - Email: muhammadjon.qoziboyev.22@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Twitter: [@yourhandle](#)
+- LinkedIn: [linkedin.com/in/muhammadjonqoziboyev](#) <!-- o'zingizning LinkedIn linkingiz -->
+- Twitter: [@muhammadjonq](#) <!-- o'zingizning Twitter handle -->
 
+---
+
+## ⚡ Fun Stats
+- 👨‍💻 Focus: Building amazing things
+- 🌍 Location: Tashkent, Uzbekistan
+- 🔗 Always learning new tech and frameworks
